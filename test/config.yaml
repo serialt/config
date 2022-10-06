@@ -1,0 +1,4 @@
+log:
+    logLevel: debug
+    # logFile: imua.log
+msg: hello,world
